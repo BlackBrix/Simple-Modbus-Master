@@ -4,6 +4,8 @@
   
 you can use it with the Simple Modbus Slave Library --> https://github.com/BlackBrix/Simple-Modbus-Slave
   
+see as well: https://github.com/angeloc/simplemodbusng for a more developed and maintained variant of this library
+  
 15/09/2014 - SMMv2rev2  
 I have decided to rewrite some of the library to create easier abstraction and to add functions 5 and 6. I have also created a manual of sorts with lots of information to help getting started. I have also shared a link on my drive to all my communication information. The ones in question are modbus and RS485. It makes for a very good (and long) read. The library for the DUE differs only in the removal of the byteFornat parameter in modbus_configure().  
   
